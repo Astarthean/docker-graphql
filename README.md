@@ -2,10 +2,17 @@
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
 
-
-[![Docker Image Version](https://img.shields.io/docker/v/astarthean/docker-graphql/latest)](https://hub.docker.com/r/astarthean/docker-graphql)
-[![GitHub Issues](https://img.shields.io/github/issues/Astarthean/docker-graphql)](https://github.com/Astarthean/docker-graphql/issues)
-[![License](https://img.shields.io/badge/license-UNLICENSED-blue.svg)](LICENSE)
+<p align="center">
+  <a href="https://hub.docker.com/r/astarthean/docker-graphql" target="_blank">
+    <img src="https://img.shields.io/docker/v/astarthean/docker-graphql/latest" alt="Docker Image Version" />
+  </a>
+  <a href="https://github.com/Astarthean/docker-graphql/issues" target="_blank">
+    <img src="https://img.shields.io/github/issues/Astarthean/docker-graphql" alt="GitHub Issues" />
+  </a>
+  <a href="LICENSE" target="_blank">
+    <img src="https://img.shields.io/badge/license-UNLICENSED-blue.svg" alt="License" />
+  </a>
+</p>
 
 <p align="center">
   API GraphQL construida con NestJS implementando Docker y CI/CD automatizado
