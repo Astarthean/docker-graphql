@@ -28,7 +28,7 @@ jobs:
         docker build -t astarthean/docker-graphql:0.0.2 .
     - name: Push Docker Image
       run: |
-        docker push astarthean/docker-graphql:0.0.2 .
+        docker push astarthean/docker-graphql:0.0.2
       
 
       
